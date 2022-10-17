@@ -9,6 +9,7 @@
 * [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Ideation%20Phase/Literature%20Survey%20(2).pptx)
 * [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Ideation%20Phase/Empathy%20Map%20(1).pdf)
 * [Brainstorm & idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Ideation%20Phase/Ideation.pdf)
+* [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Ideation%20Phase/problem%20statement.docx.pdf)
 
 ## Project Design Phase -I
 * [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Project%20Design%20Phase%20-I/Proposed%20Solution%20(1).pdf)
