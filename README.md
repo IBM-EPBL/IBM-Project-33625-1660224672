@@ -21,3 +21,7 @@
 * [Data Flow Diagram & User Stories](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Project%20Design%20Phase%20-II/Data%20Flow%20Diagram%20%26%20User%20Stories.pdf)
 * [Solution Requirements (Functional & Non-functional)](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Project%20Design%20Phase%20-II/Solution%20Requirements%20(Functional%20%26%20Non-functional).pdf)
 * [Technology Stack (Architecture & Stack)](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Project%20Design%20Phase%20-II/Technology%20Stack%20(Architecture%20%26%20Stack).pdf)
+
+## Project Planning Phase
+* [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List%20(1)%20(1).pdf)
+* [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Project%20Planning%20Phase/Sprint%20Delivery%20Plan%20.docx.pdf)
